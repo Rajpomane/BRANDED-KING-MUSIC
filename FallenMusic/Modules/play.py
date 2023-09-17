@@ -8,7 +8,6 @@ from pyrogram.types import (InlineKeyboardMarkup, InlineKeyboardButton, InputMed
 from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
-from strings import get_command
 from AnonX import (Apple, Resso, SoundCloud, Spotify, Telegram,
                         YouTube, app)
 from AnonX.core.call import Anon
